@@ -1,7 +1,7 @@
-<a href="../../../../pages/adoption/machinedata-simulator/javadocs/index.html" target="_blank" >
+<a href="http://predix.github.io/machinedata-simulator/javadocs/index.html" target="_blank" >
 	<img height="50px" width="100px" src="images/javadoc.png" alt="view javadoc"></a>
 &nbsp;
-<a href="../../../../pages/adoption/machinedata-simulator" target="_blank">
+<a href="http://predix.github.io/machinedata-simulator" target="_blank">
 	<img height="50px" width="100px" src="images/pages.jpg" alt="view github pages">
 </a>
 machinedata-simulator
